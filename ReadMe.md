@@ -4,7 +4,7 @@ Ricochet Robots is a two dimensional puzzle game for one or more players; https:
 
 In the example below the target is the blue triangle as indicated by the targetin the middle of the board. This can be reached by the blue robot in five moves.
 
-![](/images/ExampleBoard.png)
+![](/images/ExampleBoard.jpg)
 
 ## Board Configuration
 
